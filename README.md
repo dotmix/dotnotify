@@ -11,7 +11,8 @@
 
 > Написано на Node.JS с использованием библиотеки VK-IO
 
-[Демонстрация](https://i.imgur.com/LybDqQ0.gif)
+![Демонстрация](https://i.imgur.com/LybDqQ0.gif)
+
 
 ## Установка и конфигурация
 
