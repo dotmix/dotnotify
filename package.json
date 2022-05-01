@@ -1,0 +1,14 @@
+{
+  "name": "DotNotify",
+  "version": "1.0",
+  "description": "NotifyBot in VK (good morning)",
+  "main": "core/core.js",
+  "type": "module",
+  "author": "dotmix",
+  "license": "MIT",
+  "dependencies": {
+    "node-cron": "^3.0.0",
+    "yaml": "^2.0.1",
+	"vk-io": "^4.4.0"
+  }
+}
